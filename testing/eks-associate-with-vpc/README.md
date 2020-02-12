@@ -45,7 +45,7 @@ module "vpc" {
 
 ```
 
-- This will create an EKS cluster with 2 worker nodes ( with the type of instance is t2.small) on the private subnet and assign it to the Autoscaling group and associate with above VPC.
+- This will create an EKS cluster with 2 worker nodes ( with the type of instance is `t3.micro`) on the private subnet and assign it to the Autoscaling group and associate with above VPC.
 ```
 
 module "eks" {
@@ -65,7 +65,7 @@ module "eks" {
   worker_groups = [
     {
       name                          = "worker-group-1"
-      instance_type                 = "t2.small"
+      instance_type                 = "t3.micro"
       additional_userdata           = "echo foo bar"
       asg_desired_capacity          = 2
       additional_security_group_ids = "${aws_security_group.worker_group_mgmt_one.id}"
