@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b81e5c51-29e2-45bb-b573-30b9f28e3d3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/src/main/java/javacore/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/src/main/java/javacore/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/src/main/java/search/FoundMaximumCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/src/main/java/search/SearchString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comtinhackerrank/src/main/java/search/VowelsConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/dieu-khoan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/models/District.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/models/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/models/ProjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/models/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/province_district.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/repository/DistrictRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/repository/ProjectManagerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/repository/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../importjson/src/main/java/com/importjson/importjson/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/modules/lessonscala-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/modules/lessonscala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/Fibocar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/HelloWorldClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/HighOrderFuntion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/IsSorted.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/Polymorphic.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/Rational.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/gardening/fruits/Fruit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/gardening/fruits/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/target/PrintFruit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonscala/src/main/scala/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/config/start_postgresql.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/LionSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/controllers/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/models/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/models/CreateTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/models/CurrentUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/repository/CreateTableRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/repository/CurrentUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/service/AccountDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/service/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/service/SecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/service/SecurityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/java/com/smsmarketing/lion/bob/validator/AccountValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/resources/validation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/resources/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/resources/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/resources/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lion/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/.idea/modules/startplay-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/.idea/play2_project_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/AuthenticatedUserAction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/AuthenticatedUserController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/ConnectDBController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/LoggedInController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/UploadController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/controllers/UserController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/models/Global.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/models/Phone.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/models/PhoneRepository.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/models/User.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/models/UserDao.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/findPhone.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/index.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/list.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/logedin.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/main.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/upload.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/app/views/userLogin.scala.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startPlay/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_hdp_infrastructure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../group_vars/all.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../install_hdp.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventories/staging/datanode" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventories/staging/example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventories/staging/hosts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inventories/staging/namenode" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/clean-ec2-vpc/tasks/delete.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/clean-ec2-vpc/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/common/tasks/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/common/templates/hostname.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/common/templates/hosts.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/common/templates/java.sh.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/create_ec2_vpc/files/aws.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/create_ec2_vpc/tasks/create.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/create_ec2_vpc/tasks/main.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/create_ec2_vpc/tasks/report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/datanode/tasks/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/deploy_cluster/files/ha_namenode_yarn_blueprints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/deploy_cluster/files/simple_hadoop_cluster.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/deploy_cluster/tasks/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/deploy_cluster/templates/hostmap.json.j2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/masternode/tasks/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/stopagent/tasks/main.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roles/utils/tasks/main.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modules/services/vpc" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XRBzskOKWdmuEJ6ATDa7NM3Xuj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testing" />
+      <recent name="$PROJECT_DIR$/golive" />
+      <recent name="$PROJECT_DIR$/modules/services" />
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$/eks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/golive" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Exercism/scala/hello-world" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Trustingsocial/indosat1.6" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Trustingsocial/trust-data" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81e5c51-29e2-45bb-b573-30b9f28e3d3f" name="Default Changelist" comment="" />
+      <created>1580999291316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580999291316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581396780948">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="698" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1440.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1581396780948" />
+    <state x="698" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581174710818">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="698" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.-47.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1581174710818" />
+    <state x="-1211" y="30" key="SettingsEditor" timestamp="1581082818865">
+      <screen x="-1440" y="-47" width="1440" height="877" />
+    </state>
+    <state x="-1211" y="30" key="SettingsEditor/-1440.-47.1440.877/0.23.1920.991@-1440.-47.1440.877" timestamp="1581082818865" />
+    <state x="623" y="288" width="673" height="462" key="find.popup" timestamp="1581480884515">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="623" y="288" width="673" height="462" key="find.popup/-1440.-47.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1581430952062" />
+    <state x="623" y="288" width="673" height="462" key="find.popup/-1440.-47.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1581049781633" />
+    <state x="623" y="288" width="673" height="462" key="find.popup/-1440.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1581480884515" />
+    <state x="469" y="205" width="670" height="565" key="search.everywhere.popup" timestamp="1581347449641">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.991@0.23.1920.991" timestamp="1581327599260" />
+    <state x="469" y="205" width="670" height="565" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1581347449641" />
+  </component>
+</project>
