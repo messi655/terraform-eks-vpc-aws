@@ -106,6 +106,18 @@ $ terraform plan
 $ terraform apply
 ```
 
+When this deploy successful, It will create 2 files (`kubeconfig_clustername` and `config-map-aws-auth_clustername.yaml`) at the deployment folder. Copy the contents of `kubeconfig_clustername` replace to `~/.kube/config` file.
+
+ Execute the below command to add user permission to EKS cluster 
+```bash
+kubectl create -f config-map-aws-auth_clustername.yaml
+``` 
+
+Test
+```bash
+$kubectl get nodes
+```
+
 Destroy
 ```bash
 $ terraform destroy

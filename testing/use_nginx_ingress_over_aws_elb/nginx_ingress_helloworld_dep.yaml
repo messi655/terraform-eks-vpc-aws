@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: helloworld
+  labels:
+    component: helloworld
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      component: helloworld
+  template:
+    metadata:
+      labels:
+        component: helloworld
+    spec:
+      containers:
+        - name: helloworld
+          image: crccheck/hello-world:latest
+          resources:
+            limits:
+              cpu: 1000m
+            requests:
+              cpu: 100m
+          ports:
+            - containerPort: 8000
+              name: http

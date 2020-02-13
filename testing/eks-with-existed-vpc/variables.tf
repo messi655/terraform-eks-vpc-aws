@@ -22,7 +22,7 @@ variable "map_roles" {
 
   default = [
     {
-      role_arn = "arn:aws:iam::036260429817:role/tinhuynh20200213041147910600000001"
+      role_arn = "arn:aws:iam::036260429817:role/tinhuynh"
       username = "tinhuynh"
       group    = "system:masters"
     },
@@ -57,4 +57,16 @@ variable "map_users_count" {
   description = "The count of roles in the map_users list."
   type        = "string"
   default     = 1
+}
+
+variable "private_subnets" {
+  type    = "list"
+  default = ["subnet-0d0864778a94d2ab5", "subnet-001a253d1f8accae1", "subnet-078b6877023440b97"]
+
+}
+
+variable "vpc_id" {
+  type  = "string"
+  default = "vpc-9763aaf2"
+
 }
