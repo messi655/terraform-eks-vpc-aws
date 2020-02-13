@@ -64,3 +64,11 @@ $ kubectl get ing
 ```
 
 - Open your browse and enter `HOSTS` of output of `ing`
+
+#### Destroy EKS cluster
+
+Make sure you have destroy all the services that deployed on EKS (ex: ELB)
+
+```
+$ terraform destroy
+```
